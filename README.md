@@ -11,7 +11,7 @@ Gender: Gender of the customer (Male/Female).
 
 Age: Age of the customer (years).
 
-Annual Income (k$): Annual income of the customer in thousands of dollars.
+Annual Income (k$): The customer's annual income is in thousands of dollars.
 
 Spending Score (1-100): A score representing customer spending behavior, where 1 is the lowest and 100 is the highest.
 
@@ -21,7 +21,7 @@ Visualized distributions of demographic features.
 Analyzed relationships between variables like Age, Income, and Spending Score.
 
 
-K-Means Clustering:
+## K-Means Clustering:
 
 
 Determined the optimal number of clusters using the Elbow Method.
@@ -30,7 +30,7 @@ Evaluated clustering quality with the Silhouette Score (0.55) and Inertia (SSE) 
 
 Measured cluster compactness using the Davies-Bouldin Index (0.89).
 
-Results Visualization:
+## Results Visualization:
 
 Plotted clusters using scatter plots and heatmaps to display customer segments and their behavior.
 
